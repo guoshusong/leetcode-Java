@@ -3,6 +3,7 @@ import java.util.Map;
 
 /**
  * https://leetcode-cn.com/problems/lru-cache/
+ * 此题采用双向链表＋HashMap记录链表中的位置
  * @program: leetcode
  * @author: GuoShuSong
  * @create: 2020-05-25 08:26
